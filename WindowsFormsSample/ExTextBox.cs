@@ -8,6 +8,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsSample
 {
+    /// <summary>
+    /// A TextBox which can show hint.
+    /// </summary>
     public class ExTextBox : TextBox
     {
         string hint;
