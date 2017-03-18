@@ -1,2 +1,2 @@
 # WindowsFormsSample
-A project containing some Windows Forms Sample
+This project contains some Windows Forms example.
