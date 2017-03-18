@@ -8,6 +8,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsSample
 {
+    /// <summary>
+    /// RTL Panel
+    /// </summary>
     public class ExPanel : Panel
     {
         const int WS_EX_LAYOUTRTL = 0x400000;
