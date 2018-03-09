@@ -1,4 +1,4 @@
-#RTL Panel
+# RTL Panel
 
 When creating RTL windows applications for languages like persian, arabic or hebrew, to have both text flow and control placements as right-tol-left, both `RightToLeftLayout` and `RightToLeft` properties usually are set to true. 
 This way also the form title bar will be mirrored and control box will be shown at left:
